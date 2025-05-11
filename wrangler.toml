@@ -4,8 +4,8 @@ compatibility_date = "2024-05-23"
 minify = true
 
 [[kv_namespaces]]
-binding = "siren"
-id = "a9a769e67046419282ccb7a7178b1b91"
+binding = "SIREN"
+id = "14c6c7b35d2d4f32a6a77c620221951f"
 
 [build]
 command = "cargo install worker-build && worker-build --release"
